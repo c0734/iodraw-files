@@ -19,7 +19,7 @@
         <mxCell id="pQ-jJi35UbyPOLmE8MCA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-3" target="pQ-jJi35UbyPOLmE8MCA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pQ-jJi35UbyPOLmE8MCA-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;数据采集器&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQ-jJi35UbyPOLmE8MCA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-4" target="pQ-jJi35UbyPOLmE8MCA-5">
@@ -36,49 +36,6 @@
         </mxCell>
         <mxCell id="pQ-jJi35UbyPOLmE8MCA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-13" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="800" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-14" value="控制层（主程序模块）&#xa;协调各层级运行、状态提示、异常处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="233" y="899" width="222" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-15" value="数据采集层（爬取模块）&#xa;发送HTTP请求、获取原始JSON数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="230" y="1032" width="227" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-16" value="数据处理层（解析模块）&#xa;数据清洗、筛选、结构化解析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="233" y="1166" width="222" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-17" value="数据存储层（保存模块）&#xa;本地文件保存、数据格式标准化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="233" y="1300" width="222" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-18" value="本地桌面（JSON文件）&#xa;结构化数据持久化存储" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="231" y="1433" width="225" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-13" target="pQ-jJi35UbyPOLmE8MCA-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-14" target="pQ-jJi35UbyPOLmE8MCA-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-15" target="pQ-jJi35UbyPOLmE8MCA-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-16" target="pQ-jJi35UbyPOLmE8MCA-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-17" target="pQ-jJi35UbyPOLmE8MCA-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
