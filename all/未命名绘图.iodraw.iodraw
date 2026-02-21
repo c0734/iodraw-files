@@ -31,7 +31,7 @@
         <mxCell id="pQ-jJi35UbyPOLmE8MCA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ-jJi35UbyPOLmE8MCA-5" target="pQ-jJi35UbyPOLmE8MCA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pQ-jJi35UbyPOLmE8MCA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pQ-jJi35UbyPOLmE8MCA-5" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;数据存储层（保存模块）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pQ-jJi35UbyPOLmE8MCA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
