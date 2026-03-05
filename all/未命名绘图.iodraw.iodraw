@@ -22,16 +22,6 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-453" width="551" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="yui4K6xKKJ_ip_FEOqxQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-51" y="-308" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-17" value="结果反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-15">
-          <mxGeometry x="-0.0373" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7" y="-383" as="sourcePoint" />
@@ -45,7 +35,7 @@
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-42" value="输入关键词|数量|发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-40">
           <mxGeometry x="-0.005" y="-5" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="190" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
