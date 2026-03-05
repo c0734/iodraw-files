@@ -23,7 +23,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-21.333333333333258" y="-277.66666666666663" as="targetPoint" />
           </mxGeometry>
