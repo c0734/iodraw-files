@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="前端交互层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="-453" width="120" height="60" as="geometry" />
+          <mxGeometry x="-141" y="-453" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4" target="yui4K6xKKJ_ip_FEOqxQ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-4" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="-308" width="120" height="60" as="geometry" />
+          <mxGeometry x="-141" y="-308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-5" target="yui4K6xKKJ_ip_FEOqxQ-6">
           <mxGeometry relative="1" as="geometry" />
