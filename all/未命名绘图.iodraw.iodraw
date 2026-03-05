@@ -34,7 +34,7 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-5" value="多线程控制层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-163" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-6" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-6" value="数据采集层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-7" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
