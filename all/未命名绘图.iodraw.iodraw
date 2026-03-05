@@ -53,7 +53,7 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-8" value="本地处理层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="274" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-9" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-9" value="本地桌面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
