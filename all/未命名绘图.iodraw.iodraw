@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-2">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-111" y="-308" as="targetPoint" />
           </mxGeometry>
@@ -19,9 +19,6 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-2" target="yui4K6xKKJ_ip_FEOqxQ-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-453" width="551" height="60" as="geometry" />
         </mxCell>
@@ -35,8 +32,27 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="-313" width="120" height="60" as="geometry" />
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7" y="-383" as="sourcePoint" />
+            <mxPoint x="-101" y="-298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-41" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-40">
+          <mxGeometry x="0.0176" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-42" value="输入关键词|数量|发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-40">
+          <mxGeometry x="-0.005" y="-5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-43" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="-443" width="551" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-44" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="-433" width="551" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
