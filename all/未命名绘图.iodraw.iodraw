@@ -13,6 +13,18 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-5" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="332" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-6" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="342" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-7" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-8" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="362" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-9" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
