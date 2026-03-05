@@ -10,6 +10,9 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="前端交互层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-21" y="-453" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4" target="yui4K6xKKJ_ip_FEOqxQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-4" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-21" y="-308" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,17 +30,6 @@
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-9" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4" target="yui4K6xKKJ_ip_FEOqxQ-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="-282" as="sourcePoint" />
-            <mxPoint x="-10" y="-332" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="89" y="-334" />
-              <mxPoint x="-10" y="-282" />
-              <mxPoint x="120" y="-357" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
