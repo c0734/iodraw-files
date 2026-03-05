@@ -1,52 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="qKcURo_txbLdHrfj8au_">
-    <mxGraphModel dx="2000" dy="3700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="2900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-111" y="-308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-16" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-13">
-          <mxGeometry x="0.0176" y="-997" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-37" value="输入关键词|数量|发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-13">
-          <mxGeometry x="-0.005" y="-1394" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-829" width="551" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="yui4K6xKKJ_ip_FEOqxQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-51" y="-308" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-17" value="结果反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-15">
-          <mxGeometry x="-0.0373" y="191" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7" y="-383" as="sourcePoint" />
-            <mxPoint x="-101" y="-298" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-41" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-40">
-          <mxGeometry x="0.0176" y="-1209" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-42" value="输入关键词|数量|发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-40">
-          <mxGeometry x="-0.005" y="-1195" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-43" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-631" width="551" height="60" as="geometry" />
