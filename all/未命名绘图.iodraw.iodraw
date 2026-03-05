@@ -43,6 +43,9 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-8" value="本地处理层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="274" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-9" target="yui4K6xKKJ_ip_FEOqxQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-9" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-21" y="424" width="120" height="60" as="geometry" />
         </mxCell>
