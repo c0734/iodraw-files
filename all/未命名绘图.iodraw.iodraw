@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-13">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-37" value="输入关键词|数量|发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yui4K6xKKJ_ip_FEOqxQ-13">
           <mxGeometry x="-0.005" y="-5" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
