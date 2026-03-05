@@ -19,6 +19,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-2" target="yui4K6xKKJ_ip_FEOqxQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-2" value="用户前端操做" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="-453" width="551" height="60" as="geometry" />
         </mxCell>
@@ -31,6 +34,9 @@
           <mxGeometry x="-0.0373" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74.5" y="-313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
