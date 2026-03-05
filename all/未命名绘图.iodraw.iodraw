@@ -28,7 +28,7 @@
             <mxPoint x="-21.333333333333258" y="-277.66666666666663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4" target="yui4K6xKKJ_ip_FEOqxQ-9">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-4" target="yui4K6xKKJ_ip_FEOqxQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-4" value="Web服务层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
