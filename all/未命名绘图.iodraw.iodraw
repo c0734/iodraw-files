@@ -148,7 +148,7 @@
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-58" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;B站API采集模块&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;bili_api&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-692" y="531" width="551" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="mp2n3a1qn7TlRRoDs2h4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-59" target="yui4K6xKKJ_ip_FEOqxQ-60">
+        <mxCell id="mp2n3a1qn7TlRRoDs2h4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=10;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-59" target="yui4K6xKKJ_ip_FEOqxQ-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-59" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;核心业务模块&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;service.py&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
