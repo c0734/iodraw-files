@@ -153,7 +153,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mp2n3a1qn7TlRRoDs2h4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-58" target="mp2n3a1qn7TlRRoDs2h4-38">
+        <mxCell id="mp2n3a1qn7TlRRoDs2h4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=10;" edge="1" parent="1" source="yui4K6xKKJ_ip_FEOqxQ-58" target="mp2n3a1qn7TlRRoDs2h4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yui4K6xKKJ_ip_FEOqxQ-58" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;B站API采集模块&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;bili_api&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
