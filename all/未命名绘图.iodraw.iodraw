@@ -22,7 +22,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-65" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;输入关键词、数量、发送请求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yui4K6xKKJ_ip_FEOqxQ-62" vertex="1" connectable="0">
+        <mxCell id="yui4K6xKKJ_ip_FEOqxQ-65" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;输入关键词、数量&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yui4K6xKKJ_ip_FEOqxQ-62" vertex="1" connectable="0">
           <mxGeometry x="-0.0232" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
